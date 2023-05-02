@@ -4,16 +4,6 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
-.inicio__ {
-    display: flex;
-    justify-content: center;
-}
-
-.contacto__ {
-    display: flex;
-    justify-content: right;
-}
-
 .nav-div__logo {
     display: flex;
     justify-content: left;
@@ -21,39 +11,42 @@ body {
     height: 70px;
 }
 
-.nav-div__yo {
+.yo.jpg {
     display: flex;
     justify-content: center;
-    width: 200px;
-    height: 200px;
+    width: 50px;
+    height: 50px;
 }
 
-.titulo__1 {
-    display: flex;
-    justify-content: center;
-}
-
-.p1__ {
+.h1 {
     display: flex;
     justify-content: center;
 }
 
-.p2__ {
+.iconos__123 {
     display: flex;
-    justify-content: center;
 }
 
-.titulo__2 {
+.icono__1 {
     display: flex;
-    justify-content: center;
+    justify-content: left;
+    width: 50px;
+    height: 50px;
 }
 
-.titulo__3 {
+.icono__2 {
     display: flex;
-    justify-content: center;
+    justify-content: left;
+    width: 50px;
+    height: 50px;
 }
 
-
+.icono__3 {
+    display: flex;
+    justify-content: left;
+    width: 50px;
+    height: 50px;
+}
 .body {
     box-sizing: border-box;
     margin: 100;
